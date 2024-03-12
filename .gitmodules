@@ -8,3 +8,6 @@
 [submodule "chicane"]
 	path = chicane
 	url = https://github.com/cran/chicane
+[submodule "iDOS"]
+	path = iDOS
+	url = https://github.com/cran/iDOS
